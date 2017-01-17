@@ -1,0 +1,12 @@
+{
+  "name": "pretty-telegram-theme",
+  "version": "0.0.1",
+  "description": "Pretty theme for Telegram Desktop",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-dest": "^0.2.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-zip": "^3.2.0"
+  }
+}
